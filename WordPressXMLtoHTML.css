@@ -1,0 +1,120 @@
+body {
+	background-color: floralwhite;
+}
+
+a:link {
+	color: #4169E1;
+}
+a:visited {
+	color: #4169E1;
+}
+a:hover {
+	color: #4169E1;
+}
+a:active {
+	color: #4169E1;
+}
+
+.body {
+	background-color: white;
+	padding: 10px;
+	border: 1px ridge lightgray;
+	font-family: sans-serif;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.header {
+	text-align: center;
+	background-color: ghostwhite;
+	padding: 10px;
+	border: 1px ridge lightgray;
+}
+
+.header h1 {
+	margin-bottom: 6px;
+}
+
+.headerdescription {
+	color: dimgray;
+	font-size: small;
+	margin-bottom: 12px;
+}
+
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	font-size: small;
+}
+
+.posttitle h1 {
+	margin-bottom: -8px;
+}
+
+.postdatetime {
+	color: dimgray;
+	font-size: small;
+}
+
+.postcontent {
+	line-height: 1.3;
+}
+
+.postimage {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.postlinkimage {
+	
+}
+
+.postlink {
+	
+}
+
+.postfigure {
+	font-size: small;
+}
+
+.categories {
+	color: dimgray;
+	font-size: small;
+}
+
+.commentdate {
+	font-size: small;
+	font-weight: bold;
+}
+
+.comment {
+	font-size: small;
+	padding-bottom: 5px;
+}
+
+.indexpagetitle h1 {
+	margin-bottom: 8px;
+}
+
+.indexposttitle h1 {
+	margin-bottom: 8px;
+}
+
+.indexpages {
+	line-height: 1.3;
+}
+
+.indexposts {
+	line-height: 1.3;
+}
+
+.indexpostsyear h2 {
+	margin-bottom: 0px;
+}
+
+.indexpostsmonth h4 {
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
